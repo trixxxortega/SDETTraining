@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteSDETTraining" verbose="1" parallel="false">
+    <test name="TestSDETTraining">
+        <classes>
+            <!-- Pon acá las clases con tests que vayas a crear -->
+            <!-- Ejemplo: -->
+            <!-- <class name="base.SomeTestClass"/> -->
+        </classes>
+    </test>
+</suite>
