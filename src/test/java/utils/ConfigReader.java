@@ -14,7 +14,7 @@ import java.util.Properties;
                 properties.load(input);
                 input.close();
             } catch (IOException e) {
-                throw new RuntimeException("No se pudo cargar el archivo de configuración.", e);
+                throw new RuntimeException("Could not load config.properties file.", e);
             }
         }
 

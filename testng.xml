@@ -3,9 +3,7 @@
 <suite name="SuiteSDETTraining" verbose="1" parallel="false">
     <test name="TestSDETTraining">
         <classes>
-            <!-- Pon acá las clases con tests que vayas a crear -->
-            <!-- Ejemplo: -->
-            <!-- <class name="base.SomeTestClass"/> -->
+            <class name="tests.HomePageTest"/>
         </classes>
     </test>
 </suite>
